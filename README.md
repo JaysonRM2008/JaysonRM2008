@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Jayson</h1>
+<h3 align="center">A Full Stack Development high school student from Brooklyn, New York City</h3>
+
+- 💬 Ask me about **History🔮**
+
+- 📫 How to reach me **jaysonramirez429@gmail.com or jramirez@brooklynsteamcenter.org**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAGZ2iIoVhA/vusLv55NtlSAh1tMwoUdwA/view?utm_content=DAGZ2iIoVhA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17caf99891](https://www.canva.com/design/DAGZ2iIoVhA/vusLv55NtlSAh1tMwoUdwA/view?utm_content=DAGZ2iIoVhA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17caf99891)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@thejaysonramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thejaysonramirez" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **JaysonRM2008/JaysonRM2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
