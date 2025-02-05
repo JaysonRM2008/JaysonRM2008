@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **jaysonramirez429@gmail.com or jramirez@brooklynsteamcenter.org**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGZ2iIoVhA/vusLv55NtlSAh1tMwoUdwA/view?utm_content=DAGZ2iIoVhA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17caf99891](https://www.canva.com/design/DAGZ2iIoVhA/vusLv55NtlSAh1tMwoUdwA/view?utm_content=DAGZ2iIoVhA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17caf99891)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
