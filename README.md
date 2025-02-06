@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jayson Ramirez</h1>
-<h3 align="center">I am a junior in high school currently un my first year of learning full-stack development.</h3>
+<h3 align="center">I am a junior in high school currently in my first year of learning full-stack development.</h3>
 
 - 💬 Ask me about **history**
 
